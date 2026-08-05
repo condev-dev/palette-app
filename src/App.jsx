@@ -469,13 +469,13 @@ export default function App() {
             <Sparkles size={12} />
             <span>palette extractor</span>
           </div>
-          <h1 className="text-[2.5rem] md:text-6xl font-black text-white leading-[1.12] tracking-tight mt-5">
+          <h1 className="text-[2.2rem] md:text-6xl font-black text-white leading-[1.12] tracking-tight mt-5">
             استخراج پالت <br />
           </h1>
-          <h1 className="text-[2.5rem] md:text-6xl font-black text-white leading-[1.12] tracking-tight mt-5 pt-3">
+          <h1 className="text-[2.2rem] md:text-6xl font-black text-white leading-[1.12] tracking-tight mt-5 pt-3">
             <span style={{ color: heroColor }}>رنگ های</span> از عکس ها
           </h1>
-          <p className="text-white/45 mt-5 pt-5 text-sm md:text-base max-w-sm mx-auto leading-relaxed">
+          <p className="text-white/45 mt-5 pt-5 text-sm md:text-base max-w-xs  mx-auto leading-relaxed">
             یه عکس بنداز، رنگ های اصلیش رو با کد HEX و RGB دقیق در چند ثانیه
             بگیر 😊
           </p>
